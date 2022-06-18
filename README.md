@@ -1,8 +1,22 @@
 # Customer-Churn-Prediction
 
+## What is Customer Churn? Why is it necessary to detect it well in advance?
+
+<p>Customer churn is defined as when customers or subscribers discontinue doing business with a firm or service. Customer churn, also known as customer attrition, is critical metric because retaining existing customers is much less exorbitant than acquiring new customers – earning business from new customers requires working leads all the way through the sales funnel, leveraging your marketing and sales resources throughout the process. Customer retention, on the other hand, is usually more cost-effective because you've already gained your consumers' confidence and loyalty.</p>
+
+<p>Since customer attrition stifles growth, businesses should have a mechanism for estimating client churn over time. Organizations may assess their client retention success rates and identify strategies for improvement by being aware of and tracking churn rate. The overall number of customers lost, the percentage of customers lost compared to the company's entire customer count, the value of recurring business lost, or the percent of recurring value lost are all ways that different businesses assess customer churn rate. Other companies assess churn rate over a certain time period, such as quarters or fiscal years.</p>
+
+<p>One of the most prominent methods for calculating customer churn is to divide the total number of customers a firm has at the start of a certain time period by the number of customers lost during that same time period.</p>
+
+![Significane of ML in Customer Churn](https://www.blueconic.com/wp-content/uploads/2019/08/customer-churn-prediction.png)
+
 ## Deployed Web Application
 
 Link: https://customer-churn-prediction-sam.herokuapp.com/
+
+![Customer Churn Prediction](https://miro.medium.com/max/1400/1*YhUxD22DhV3RYB8hXZ1ENg.png)
+![Customer Churn](https://miro.medium.com/max/844/1*MyKDLRda6yHGR_8kgVvckg.png)
+![Life Cycle of Customer Churn](https://miro.medium.com/max/456/1*Dvx1j18vyKyvLlIpxzVSmQ.png)
 
 ## Context
 
@@ -20,8 +34,8 @@ Link: https://customer-churn-prediction-sam.herokuapp.com/
 
 <table>
   <tr>
-    <th>Feature</th>
-    <th>Description</th>
+    <th><b><em><strong>Feature</strong></em></b></th>
+    <th><b><em><strong>Description</strong></em></b></th>
   </tr>
   <tr>
     <td>customer_id</td>
