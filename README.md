@@ -8,7 +8,6 @@
 
 <p>One of the most prominent methods for calculating customer churn is to divide the total number of customers a firm has at the start of a certain time period by the number of customers lost during that same time period.</p>
 
-![Significane of ML in Customer Churn](https://www.blueconic.com/wp-content/uploads/2019/08/customer-churn-prediction.png)
 
 ## Deployed Web Application
 
